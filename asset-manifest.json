@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a7ba5ac7.css",
+    "main.js": "/static/js/main.76e0c78f.js",
+    "static/js/453.1eb5cc81.chunk.js": "/static/js/453.1eb5cc81.chunk.js",
+    "static/media/bslc_elearning.jpg": "/static/media/bslc_elearning.3a9ea5516de8c272cc28.jpg",
+    "static/media/tweetur.jpg": "/static/media/tweetur.d7be04dac53df57a7a2e.jpg",
+    "static/media/clinicapp.jpg": "/static/media/clinicapp.78591664d9e017e30c3b.jpg",
+    "static/media/mail.svg": "/static/media/mail.88fcac09305f0b500978fc3a57a9378c.svg",
+    "static/media/sun.svg": "/static/media/sun.fd4a76ea7375df57d0d28c395dacec89.svg",
+    "static/media/linkedin.svg": "/static/media/linkedin.2a9a49b432f950d406ff19785709aeea.svg",
+    "static/media/moon.svg": "/static/media/moon.333cbbb551fae4045565c22bd60788ae.svg",
+    "static/media/github-mark.svg": "/static/media/github-mark.6fa18895f6e6c7772cab7049f7e05f59.svg",
+    "static/media/github-mark-white.svg": "/static/media/github-mark-white.97ed8e7eef60d61ca469881dd6f34511.svg",
+    "index.html": "/index.html",
+    "main.a7ba5ac7.css.map": "/static/css/main.a7ba5ac7.css.map",
+    "main.76e0c78f.js.map": "/static/js/main.76e0c78f.js.map",
+    "453.1eb5cc81.chunk.js.map": "/static/js/453.1eb5cc81.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a7ba5ac7.css",
+    "static/js/main.76e0c78f.js"
+  ]
+}
