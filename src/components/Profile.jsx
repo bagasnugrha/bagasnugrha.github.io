@@ -4,7 +4,6 @@ const Profile = () => {
       <div className="grid gap-5">
         <div className="w-fit">
           <h1>Hello!</h1>
-          <h2>こんにちは!</h2>
         </div>
         <p className="indent-5 text-justify">
           My name is {""}
